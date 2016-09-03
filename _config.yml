@@ -1,14 +1,26 @@
-layout_spectrum: 0.07706093
-typography_spectrum: 0.2078853
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.9587814
-  lightness: 0.7795699
   brandStrength: 1
+  rhythmicContrast: 0.4480287
   brandColors:
     - '#1B170F'
     - '#7F6F4E'
     - '#58482E'
     - '#DED7BB'
     - '#BAB39A'
-  rhythmicContrast: 0.4480287
+  lightness: 0.7795699
+typography_spectrum: 0.2078853
+layout_spectrum: 0.1935484
 name: Howfastcanimakeawebsite
