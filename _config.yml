@@ -1,0 +1,14 @@
+layout_spectrum: 0.07706093
+typography_spectrum: 0.2078853
+color:
+  saturation: 0.9587814
+  lightness: 0.7795699
+  brandStrength: 1
+  brandColors:
+    - '#1B170F'
+    - '#7F6F4E'
+    - '#58482E'
+    - '#DED7BB'
+    - '#BAB39A'
+  rhythmicContrast: 0.4480287
+name: Howfastcanimakeawebsite
